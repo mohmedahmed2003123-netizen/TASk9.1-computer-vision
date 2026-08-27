@@ -105,12 +105,3 @@ Author
 
 Mohmed Ahmed 
 
----
-
-
-## 🔧 خطوتك الجاحفظ الملف. **احفظ الملف** (Ctrl + X, ثم Y, ثم Enter).
-2. **عدل الرابطين** في الـ README (رابط الفيديو ورابط الـ GitHubضيف ملفاتكم.
-3. **ضيف ملفاتك** للـ Git (باستثناء الـ task9_env):
-  
-   git add README.md src/ outputs/ dataset/ .gitignore
-   git commit -m "Add README and final project files (compressed PLY)"
